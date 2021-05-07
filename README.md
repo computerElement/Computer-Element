@@ -5,4 +5,5 @@
 ## 第一章
 本章主要为在Nand gate的基础上实现其他gate.
 
-理论资料请参考:https://en.wikipedia.org/wiki/NAND_logic 该页面给出了Nand与其他逻辑门的关系
+理论资料请参考:https://en.wikipedia.org/wiki/NAND_logic 该页面给出了Nand与其他基本逻辑门的关系.
+
