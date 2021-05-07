@@ -1,5 +1,6 @@
- CHIP And
- {
+//参考https://en.wikipedia.org/wiki/NAND_logic
+CHIP And
+{
 	IN a,b;
 	OUT out;
 	
