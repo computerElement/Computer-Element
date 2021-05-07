@@ -2,7 +2,7 @@
 
 本项目为计算机系统要素: 从零开始构建现代计算机一书的习题解(ISBN：9787121033360)
 
-##工具链准备
+## 工具链准备
 所有需要用到的软件可在作者提供的网站下载:https://www.nand2tetris.org/software.
 
 压缩包名为:Nand2tetris Software Suite
