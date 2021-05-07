@@ -14,5 +14,7 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 
 本章主要为在Nand gate的基础上实现其他gate。Nand gate已在软件中默认实现.
 
-理论资料请参考:https://en.wikipedia.org/wiki/NAND_logic 该页面给出了Nand与其他基本逻辑门的关系.
+Nand与其他基本逻辑门的关系请参考:https://en.wikipedia.org/wiki/NAND_logic 。
+
+Nand和Mux的关系请参考:http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/On-the-implementation-of-the-ALU-without-Multiplex-td4026464.html
 
