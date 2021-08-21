@@ -9,7 +9,7 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 
 解压后有tools和projects两个文件夹.
 
-其中,tools文件夹存放解题所需的软件.
+其中,tools文件夹存放解题所需的软件,也即硬件仿真软件(通过HardwareSimulator.bat启动),.
 ## 第一章
 
 本章主要为在Nand gate的基础上实现其他gate。Nand gate已在软件HardwareSimulator中默认实现.
