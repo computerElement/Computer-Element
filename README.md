@@ -19,3 +19,5 @@ Nand与其他基本逻辑门的关系请参考:https://en.wikipedia.org/wiki/NAN
 Nand和Mux的关系请参考:http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/On-the-implementation-of-the-ALU-without-Multiplex-td4026464.html
 
 多位多通道门请参考:https://nand2tetris-hdl.github.io/#mux416
+##第二章
+半加法器的实现,请参考书本38页提示,或参考:https://electronicscoach.com/half-adder.html
