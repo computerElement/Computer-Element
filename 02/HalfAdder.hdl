@@ -14,8 +14,10 @@ CHIP HalfAdder {
 
     PARTS:
     // Put you code here:
+	//And gate
 	Nand(a=a,b=b,out=o1);
 	Nand(a=o1,b=o1,out=carry);
+	//Xor gate
 	Nand(a=a,b=o1,out=o21);
 	Nand(a=o1,b=b,out=o22);
 	Nand(a=o21,b=o22,out=sum);

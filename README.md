@@ -9,7 +9,8 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 
 解压后有tools和projects两个文件夹.
 
-其中,tools文件夹存放解题所需的软件,也即硬件仿真软件(通过HardwareSimulator.bat启动),.
+其中,tools文件夹存放解题所需的软件,也即硬件仿真软件(通过HardwareSimulator.bat启动).
+
 ## 第一章
 
 本章主要为在Nand gate的基础上实现其他gate。Nand gate已在软件HardwareSimulator中默认实现.
@@ -19,5 +20,7 @@ Nand与其他基本逻辑门的关系请参考:https://en.wikipedia.org/wiki/NAN
 Nand和Mux的关系请参考:http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/On-the-implementation-of-the-ALU-without-Multiplex-td4026464.html
 
 多位多通道门请参考:https://nand2tetris-hdl.github.io/#mux416
-##第二章
-半加法器的实现,请参考书本38页提示,或参考:https://electronicscoach.com/half-adder.html
+
+## 第二章
+半加法器的实现,请参考书本38页提示,或参考:https://electronicscoach.com/half-adder.html;
+全加法器的实现请参考:https://www.geeksforgeeks.org/difference-between-half-adder-and-full-adder/
