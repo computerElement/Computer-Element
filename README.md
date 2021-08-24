@@ -1,6 +1,6 @@
 # Computer-Element
 
-本项目主要目标是参考《计算机系统要素》(ISBN：9787121033360)一书,实现一个操作系统
+本项目主要目标是参考《计算机系统要素--从零开始构建现代计算机》(ISBN：9787121033360)一书,实现一个操作系统
 The Elements of Computer Systems: Building a Modern Computer from First Principles
 ## 工具链准备
 所有需要用到的软件可在作者提供的网站下载:https://www.nand2tetris.org/software.
@@ -27,3 +27,5 @@ Nand和Mux的关系请参考:http://nand2tetris-questions-and-answers-forum.3203
 全加法器的实现请参考:https://www.geeksforgeeks.org/difference-between-half-adder-and-full-adder/
 
 ALU实现可参考:http://www.csc.villanova.edu/~mdamian/Past/csc2400fa13/assign/ALU.html
+
+其中,zero flag实现可参考:https://github.com/woai3c/nand2tetris/blob/master/02/Or16Way.hdl
